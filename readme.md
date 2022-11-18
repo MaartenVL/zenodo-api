@@ -137,7 +137,7 @@ Click on the upload to check all the info related to this upload:
 * License (CC zero v1.0 Universal)
 * Version (Version 1)
 
-![alt text](readme_images/overview of upload.PNG?raw=true)
+![alt text](readme_images/overviewofupload.PNG?raw=true)
 
 Finally, you can also download the data file and verify the successful upload!:
 
